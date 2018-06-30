@@ -1,0 +1,46 @@
+body {
+    background: url("../images/bgGymone.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+ 
+}
+div {
+    background-color: #dd4814;
+    width: 50%;
+    margin: 150px auto;
+    text-align: center;
+    border-radius: 25px;
+    opacity: 0.8;
+   
+}
+button {
+    background: rgba(50,50,50);
+    padding: 30px;
+    color: black;
+    font-size: 2em;
+    border-radius: 10px;
+}
+h1{
+    font-size: 4em;
+    font-family: 'Shrikhand', cursive;
+
+    font-family: 'Fredericka the Great', cursive;
+
+}
+p {
+    font-size: 1.8em;
+    
+
+    font-family: 'Shrikhand', cursive;
+
+    font-family: 'Fredericka the Great', cursive;
+
+    font-family: 'Play', sans-serif;
+
+
+}
+
+i {
+    font-size: 4em;
+    color: white;
+}
